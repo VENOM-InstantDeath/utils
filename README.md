@@ -1,2 +1,3 @@
 # utils
-Repositorio utils del proyecto HU
+
+En este repositorio se encuentran los programas que tengan utilidad para el usuario con el sistema u otra utilidad.
