@@ -1,0 +1,5 @@
+{
+	"ip-web": ["ip-web","Mafius","1.1",["python"],[],[], "Devuelve la IP pública de una dirección dada"],
+	"libclock": ["libclock","Darth Venom","1.0",["python"],[],[], "Python - Librería que facilita la hora de en una zona horaria dada"],
+	"ls-ip": ["ls-ip","Darth Venom","1.0",["python"],[],[], "Devuelve la IP pública y privada asignada al dispositivo"]
+}
